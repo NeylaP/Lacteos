@@ -1,4 +1,4 @@
-# Api de Empresa Lacteos
+# Api Lacteos
 Este proyecto es una api sencilla para el ingreso de información en la BD
 
 <h3 align="left">Instalación:</h3>
